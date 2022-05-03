@@ -1,3 +1,4 @@
+import { Container, Grid, Paper } from "@material-ui/core";
 import React, { useState, useEffect } from "react";
 
 const Notes = () => {
@@ -10,18 +11,22 @@ const Notes = () => {
   },[])
 
   return (
-    <div>
+    <Container>
       <h1>Notes page</h1>
+      <Grid container>
       {notes.map((note) => {
         return(
-          <div key={note.id}>
-             <h3>{note.title}</h3>
+          <Grid key={note.id} xs={12} sm={6} md={3}>
+            <Paper>
+            <h3>{note.title}</h3>
              <p>{note.post}</p>
-          </div>
+            </Paper>
+          </Grid>
         )
       }
       )}
-    </div>
+      </Grid>
+    </Container>
   );
 };
 

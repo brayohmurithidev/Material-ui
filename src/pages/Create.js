@@ -10,7 +10,6 @@ import {
   RadioGroup,
   Typography,
 } from "@material-ui/core";
-import { useNavigate } from "react-router-dom";
 
 const useStyles = makeStyles({
   textfield: {
@@ -34,7 +33,6 @@ const Create = () => {
   const classes = useStyles();
 
   // React history hook
-  const navigate = useNavigate;
   const [title, setTitle] = useState("");
   const [success, setSuccess] = useState('');
   const [post, setPost] = useState("");

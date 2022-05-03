@@ -19,58 +19,22 @@
       "id": 3
     },
     {
-      "title": "Work out",
-      "post": "Morning jogging and work out",
-      "category": "reminders",
-      "id": 4
-    },
-    {
-      "title": "Hello world",
-      "post": "Hello am brayoh",
-      "category": "todos",
+      "title": "Lorem two sentences",
+      "post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel risus commodo viverra maecenas accumsan lacus vel.",
+      "category": "money",
       "id": 5
     },
     {
-      "title": "ALX PROGRAM",
-      "post": "Start ALX program on 09/05/2022",
-      "category": "reminders",
+      "title": "Microsoft Student Lead",
+      "post": "Hello, this is a react tutorial and in it we will be covering how to work with react dom.",
+      "category": "reminder",
       "id": 6
     },
     {
-      "title": "ZURI ACADEMY UI/UX PROGRAM",
-      "post": "Remember to join the program on date 02/05/2022",
-      "category": "reminders",
-      "id": 7
-    },
-    {
-      "title": "Title",
-      "post": "Post",
-      "category": "todos",
+      "title": "Lorem two sentences",
+      "post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel risus commodo viverra maecenas accumsan lacus vel.",
+      "category": "money",
       "id": 8
-    },
-    {
-      "title": "Hello",
-      "post": "Hello",
-      "category": "todos",
-      "id": 9
-    },
-    {
-      "title": "Helo",
-      "post": "HELLO",
-      "category": "reminders",
-      "id": 10
-    },
-    {
-      "title": "Hello ",
-      "post": "Hello",
-      "category": "reminders",
-      "id": 11
-    },
-    {
-      "title": "Hello",
-      "post": "Hello",
-      "category": "todos",
-      "id": 12
     }
   ]
 }
